@@ -1,20 +1,16 @@
 {
-    "entries": [
-        {
-            "name": "sliamne ",
-            "score": 950
-        },
-        {
-            "name": "Hannah",
-            "score": 932
-        },
-        {
-            "name": "Alice",
-            "score": 876
-        },
-        {
-            "name": "moahammed",
-            "score": 990
-        }
-    ]
+  "entries": [
+    {
+      "name": "moahammed",
+      "score": 990
+    },
+    {
+      "name": "sliamne ",
+      "score": 950
+    },
+    {
+      "name": "Hannah",
+      "score": 932
+    }
+  ]
 }
